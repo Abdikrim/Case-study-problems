@@ -1,5 +1,5 @@
-    Option1	 Option2	 Option3   Option4	 Option5	Option6
-Task Pred	Dur	Cost Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost
+            Option1	 Option2	 Option3    Option4	    Option5	     Option6
+Task Pred Dur Cost  Dur	Cost    Dur	Cost    Dur	Cost	Dur	Cost	Dur	Cost
 
 1		35	7750	31	8350	29	11850	27	12350	25	15350	21	21100
 2		44	17750	40	20350	37	24350	35	27600	34	30600	31	37350
@@ -209,4 +209,5 @@ Task Pred	Dur	Cost Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost
 206	193	42	13750	41	15600	39	17850	37	22600	34	29850	32	33350
 207	194	31	25000	29	26600	27	30600	25	31350	23	38100	21	47100
 208 195,196,197	20	10750	16	11350	13	12350	9	13600	7	18350	4	28850
+
 
