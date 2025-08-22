@@ -1,5 +1,5 @@
-                            Option1                 Option2                 Option3                  Option4                0ption5                 Option6
-Task Predec            Dur	Cost         Dur        Cost	Dur	Cost        Dur         Cost        Dur         Cost        Dur	Cost	
+            Option1   Option2 Option3 Option4 0ption5  Option6
+Task Predec Dur	Cost Dur Cost	Dur	Cost Dur Cost Dur Cost Dur Cost	
 
 1		44	15500	42	18600	39	20950	37	23300	35	25650	32	26000
 2		30	43750	27	46350	25	47450	22	49550	19	50400	15	51750
@@ -82,6 +82,7 @@ Task Predec            Dur	Cost         Dur        Cost	Dur	Cost        Dur     
 79	75	44	38750	41	40850	39	41200	35	41300	34	42400	31	44000
 80	76, 77	26	35000	22	37850	19	38700	16	39050	13	39900	10	42250
 81	78, 79	34	34750	31	35850	27	38200	25	39550	21	40150	20	40500
+
 
 
 
