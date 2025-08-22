@@ -1,4 +1,4 @@
-		     Option1	    Option2	     Option3	    Option4	    Option5	    Option6	
+		    Option1	    Option2	     Option3	    Option4	    Option5	    Option6	
 Task Predecess	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost
 
 1		32	38750	29	40350	25	43600	22	46350	20	50850	17	61100
@@ -293,3 +293,4 @@ Task Predecess	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost	Dur	Cost
 290	285	41	45250	38	48100	35	50600	33	52850	29	57100	28	63350
 291	286	35	14000	34	15850	31	16600	28	17600	25	22100	22	31100
 													
+
