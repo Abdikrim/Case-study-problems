@@ -11,17 +11,19 @@ dataset is available in the original source.
 # Dk     : Duration of option k
 # Ck     : Cost of option k
 
-Task	Predec	D1	C1	D2	C2	D3	C3	D4	C4	D5	C5          D6	C6
+Task	Predec	D1	C1	D2	C2	D3	C3	D4	C4	D5	C5	D6	C6
 1	-	35	7750	31	8350	29	11850	27	12350	25	15350	21	21100
 2	-	44	17750	40	20350	37	24350	35	27600	34	30600	31	37350
 3	-	32	44250	30	47100	26	50600	23	53350	22	56100	21	61100
 207	194	31	25000	29	26600	27	30600	25	31350	23	38100	21	47100
-208      195,196,197	20	10750	16	11350	13	12350	9	13600	7	18350	4	28850
+208 195,196,197	20	10750	16	11350	13	12350	9	13600	7	18350	4	28850
+
 
 Source: Bettemir, Ö. H., and M. T. Birgonul. 2023. “Solution of discrete time–cost trade-off problem with adaptive search domain.” Eng. Constr. Archit. Manage. 32 (2):
 1032–1052. https://doi.org/10.1108/ECAM-06-2022-0601
 
 	
+
 
 
 
