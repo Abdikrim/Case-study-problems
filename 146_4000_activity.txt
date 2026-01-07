@@ -18,8 +18,10 @@ Task	Predec	D1	C1	D2	C2	D3	C3	D4	C4	D5	C5
 145	134	45	33500	43	36500	41	39500	39	41750	37	42500
 146	135,136	30	29000	27	29750	25	32000	24	33500	22	38750
 
-Source: Bettemir, Ö. H., and M. T. Birgonul. 2023. “Solution of discrete time–cost trade-off problem with adaptive search domain.” Eng. Constr. Archit. Manage. 32 (2): 1032–1052. https://doi.org/10.1108/ECAM-06-2022-0601
+Source: Bettemir, Ö. H., and M. T. Birgonul. 2023. “Solution of discrete time–cost trade-off problem with adaptive search domain.” Eng. Constr. Archit. Manage. 32 (2):
+1032–1052. https://doi.org/10.1108/ECAM-06-2022-0601
 
 	
+
 
 
