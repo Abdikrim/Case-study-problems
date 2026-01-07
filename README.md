@@ -25,7 +25,7 @@ Each activity has discrete **modes** with `(duration_days, direct_cost)`. **Proj
 
 If you use this dataset, please cite the paper and dataset:
 
-- **Article**: Toğan V., Sulub A. S., Eirgash M. A., Mostofi F., *Project Scheduling to Minimize the Time and Cost in Large-Scale Construction Projects with Repulsion-Based Improved Arithmetic Optimization*, ASCE Journal of Construction Engineering and Management.
+- **Article**: Toğan, V., Sulub, A. S., Eirgash, M. A., & Mostofi, F. (2026). Project scheduling to minimize time and cost in large-scale construction projects with repulsion-based improved arithmetic optimization. Journal of Construction Engineering and Management, 152(3), 04025277. https://doi.org/10.1061/JCEMD4.COENG-17269
 - **Dataset**: “RAOA–DTCTP Data (v1.0.0)”, this repository URL or DOI (if you mint one via Zenodo).
 
 ## License
@@ -36,3 +36,4 @@ Data are released under **Creative Commons Attribution 4.0 International (CC BY 
 
 - Maintainer: [Sulub A. S., cksulub10@gmail.com ]
 - Issues & corrections: open a GitHub Issue using the **Data Correction** template.
+
