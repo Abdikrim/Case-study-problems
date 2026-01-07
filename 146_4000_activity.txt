@@ -1,6 +1,6 @@
 # Dataset description
 "To evaluate the RAOA model's performance in generating Pareto-optimal solutions for the Discrete Time–Cost Trade-Off Problem (DTCTP), 
-a benchmark problem with 81 activities was utilized. The dataset is drawn from benchmark instances defined by Bettemir and Birgonul (2025). 
+a benchmark problem with 146 activities was utilized. The dataset is drawn from benchmark instances defined by Bettemir and Birgonul (2025). 
 Experimental data are shared below with authorization from the original source. The full dataset is also accessible in the cited publication 
 (Bettemir & Birgonul, 2025, Eng. Constr. Archit. Manage., 32(2):1032–1052. https://doi.org/10.1108/ECAM-06-2022-0601)."
 
@@ -161,6 +161,7 @@ Task	Predec	D1	C1	D2	C2	D3	C3	D4	C4	D5	C5
 
 
 	
+
 
 
 
