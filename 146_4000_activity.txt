@@ -1,6 +1,6 @@
 # Dataset description
 To assess the effectiveness of the RAOA model in approximating Pareto-optimal fronts for the
-Discrete Time–Cost Trade-Off Problem (DTCTP), a benchmark instance with 81 activities, was evaluated.
+Discrete Time–Cost Trade-Off Problem (DTCTP), a benchmark instance with 146 activities, was evaluated.
 This dataset is based on the benchmark problems described by Bettemir and Birgonul (2023).
 A subset of the empirical data used in the experiments is illustrated below, while the complete
 dataset is available in the original source.
@@ -10,16 +10,16 @@ dataset is available in the original source.
 # Predec : Immediate predecessor(s)
 # Dk     : Duration of option k
 # Ck     : Cost of option k
-#
-Task	Predec	D1	C1	D2	C2	D3	C3	D4	C4	D5	C5	D6	C6
-1	-	44	15500	42	18600	39	20950	37	23300	35	25650	32	26000
-2	-	30	43750	27	46350	25	47450	22	49550	19	50400	15	51750
-3	-	23	45500	20	48350	17	50950	14	53050	10	55650	7	56750
-80	76, 77	26	35000	22	37850	19	38700	16	39050	13	39900	10	42250
-81	78, 79	34	34750	31	35850	27	38200	25	39550	21	40150	20	40500
 
+Task	Predec	D1	C1	D2	C2	D3	C3	D4	C4	D5	C5
+1	-	20	44000	18	45500	16	47000	15	47750	13	52250
+2	-	49	11000	46	11750	44	14750	41	15500	39	20750
+3	-	42	6500	39	11000	37	14750	35	16250	33	19250
+145	134	45	33500	43	36500	41	39500	39	41750	37	42500
+146	135,136	30	29000	27	29750	25	32000	24	33500	22	38750
 
 Source: Bettemir, Ö. H., and M. T. Birgonul. 2023. “Solution of discrete time–cost trade-off problem with adaptive search domain.” Eng. Constr. Archit. Manage. 32 (2): 1032–1052. https://doi.org/10.1108/ECAM-06-2022-0601
 
 	
+
 
